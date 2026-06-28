@@ -144,16 +144,6 @@ confirma la correlación cuasi-lineal.*
    es retención operativa. Revisar logística, soporte y experiencia
    post-venta.
 
-## Cómo Ejecutar
-
-1. Clona el repositorio
-2. Instala dependencias:
-```bash
-pip install pandas numpy matplotlib seaborn scipy
-```
-3. Coloca el CSV en `/datasets/novaretail_comportamiento_clientes_2024.csv`
-4. Abre el notebook en Jupyter o Google Colab
-5. Ejecuta todas las celdas en orden
 
 [Ver notebook completo](./S8_Student%20Version-Project-NovaRetail.ipynb)
 
